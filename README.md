@@ -1,6 +1,7 @@
 # arXiv Cleaner
 
-Clean LaTeX project for submitting to arXiv.
+Clean LaTeX project for submitting to arXiv. 
+updated for use with `pip install`
 
 ## Features
 
